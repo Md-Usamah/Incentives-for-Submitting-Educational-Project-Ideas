@@ -8,6 +8,8 @@ This project is designed to encourage and reward individuals for submitting inno
 
 ## Contract Address:
 0xfb4c7511c0867b0240cd6e8402464b8daca70175
+![image](https://github.com/user-attachments/assets/5d1572d2-dea3-4371-81be-67e8fc0ab5df)
+
 
 ## Key Features
 - **Decentralized Incentives**: Rewards are automatically distributed upon submission of a project idea, providing a transparent and efficient incentive mechanism.
